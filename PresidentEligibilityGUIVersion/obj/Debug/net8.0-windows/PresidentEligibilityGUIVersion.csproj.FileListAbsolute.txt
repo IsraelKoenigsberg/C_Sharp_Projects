@@ -1,0 +1,16 @@
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\bin\Debug\net8.0-windows\PresidentEligibilityGUIVersion.exe
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\bin\Debug\net8.0-windows\PresidentEligibilityGUIVersion.deps.json
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\bin\Debug\net8.0-windows\PresidentEligibilityGUIVersion.runtimeconfig.json
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\bin\Debug\net8.0-windows\PresidentEligibilityGUIVersion.dll
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\bin\Debug\net8.0-windows\PresidentEligibilityGUIVersion.pdb
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.Form1.resources
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.csproj.GenerateResource.cache
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.AssemblyInfoInputs.cache
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.AssemblyInfo.cs
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.csproj.CoreCompileInputs.cache
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.dll
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\refint\PresidentEligibilityGUIVersion.dll
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.pdb
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\PresidentEligibilityGUIVersion.genruntimeconfig.cache
+C:\Users\Yisrael Koenigsberg\source\repos\PresidentEligibilityGUIVersion\PresidentEligibilityGUIVersion\obj\Debug\net8.0-windows\ref\PresidentEligibilityGUIVersion.dll
